@@ -4,6 +4,11 @@ text_image-data1/
 birds/
 for_image_training/
 CAH/
+CUB_200_2011.tgz
+attributes.txt
+birds.zip
+outputs/Black_Footed_Albatross_1/
+rename.sh
 
 # dall-e generation outputs
 *.pt
