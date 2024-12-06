@@ -9,6 +9,7 @@ attributes.txt
 birds.zip
 outputs/Black_Footed_Albatross_1/
 rename.sh
+for_image_training_half/
 
 # dall-e generation outputs
 *.pt
