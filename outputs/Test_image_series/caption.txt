@@ -1,1 +1,1 @@
-Test image series
+Test image_series
