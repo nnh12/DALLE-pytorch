@@ -28,7 +28,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument('--image_folder', type = str, required = True,
                     help='path to your folder of images for learning the discrete VAE and its codebook')
 
-parser.add_argument('--image_size', type = int, required = False, default = 128,
+parser.add_argument('--image_size', type = int, required = False, default = 512,
                     help='image size')
 
 parser = distributed_utils.wrap_arg_parser(parser)
