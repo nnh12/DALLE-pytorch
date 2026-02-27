@@ -1,0 +1,4 @@
+python3 train_vae.py --image_folder /home/nathan/new/mount/DALLE-pytorch/CUB_200_2011/images/for_image_training
+
+python3 generate.py --dalle_path ./dalle.pt --text 'Test Image series'
+
